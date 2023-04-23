@@ -10,5 +10,9 @@ Other popular Atari games included "Space Invaders," which was released in 1978 
 
 Atari games were known for their simple, addictive gameplay and colorful graphics, and they helped to establish the video game industry as a major form of entertainment.
 
+For our work we will be using:
+- [Gym for the envirment](https://www.gymlibrary.dev/environments/atari/)
+- Keras-rl2 and Tensorflow for the model
+
 ## 2. **Tetris: Next**
 
